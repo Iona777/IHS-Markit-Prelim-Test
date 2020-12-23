@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TVeMyHpuHfVTPxba5YaKCMBlqb6RB2SteqTGz3p0S3P6rBIJRfWBHj4VgAKUzPkCqOlBWl3GdL4c2IgeULJiEg==",
+  "dgSpecHash": "GWYXSAVw1v38wPyiO+zcUe8EqZCv1oy+oExr4WF43KEfa66xmJL4ESRDEKWwFeK4W+75FnAGsQC4jPIx2c2jAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gregm\\source\\repos\\IHSMarkit TestProject\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj",
+  "projectFilePath": "C:\\Users\\gregm\\source\\repos\\IHS Markit Prelim Test\\IhsMarkit-Test\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gregm\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\gregm\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

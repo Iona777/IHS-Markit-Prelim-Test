@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gregm\\source\\repos\\IHSMarkit TestProject\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj": {}
+    "C:\\Users\\gregm\\source\\repos\\IHS Markit Prelim Test\\IhsMarkit-Test\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gregm\\source\\repos\\IHSMarkit TestProject\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj": {
+    "C:\\Users\\gregm\\source\\repos\\IHS Markit Prelim Test\\IhsMarkit-Test\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gregm\\source\\repos\\IHSMarkit TestProject\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\gregm\\source\\repos\\IHS Markit Prelim Test\\IhsMarkit-Test\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj",
         "projectName": "IHSMarkit TestProject",
-        "projectPath": "C:\\Users\\gregm\\source\\repos\\IHSMarkit TestProject\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj",
+        "projectPath": "C:\\Users\\gregm\\source\\repos\\IHS Markit Prelim Test\\IhsMarkit-Test\\IHSMarkit TestProject\\IHSMarkit TestProject.csproj",
         "packagesPath": "C:\\Users\\gregm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gregm\\source\\repos\\IHSMarkit TestProject\\IHSMarkit TestProject\\obj\\",
+        "outputPath": "C:\\Users\\gregm\\source\\repos\\IHS Markit Prelim Test\\IhsMarkit-Test\\IHSMarkit TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
